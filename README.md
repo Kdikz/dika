@@ -72,11 +72,6 @@
               <i class="fa-solid fa-phone"></i>
             </a>
          </li>
-          <li>
-            <a href="#"> Telegram
-              <i class="fa-brands fa-telegram"></i>
-            </a>
-           </li>
            <li>
             <a href="#"> Whatsapp
             <i class="fa-brands fa-square-whatsapp"></i>
